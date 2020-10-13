@@ -19,7 +19,7 @@
         <version.plugin.enforcer>1.4.1</version.plugin.enforcer>
         <version.plugin.jar>2.3.2</version.plugin.jar>
         
-		<version.junit>4.12</version.junit>
+		<version.junit>4.13.1</version.junit>
 	</properties>
 
 	<build>
